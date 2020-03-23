@@ -1,8 +1,8 @@
 # 制作安卓apk文件
 前期需安装好unity，后边需要用到
 
-1-配置电脑环境变量：
-* 查看Java 安装路径
+1-配置电脑环境变量：<br>
+* 查看Java 安装路径<br>
 ![1](https://github.com/ccyymm/vr-apk/blob/master/1.png)
 
 2-新建变量：变量值为Java安装路径
