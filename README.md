@@ -5,22 +5,22 @@
 * 查看Java 安装路径<br>
 ![1](https://github.com/ccyymm/vr-apk/blob/master/1.png)
 
-2-新建变量：变量值为Java安装路径
+2-新建变量：变量值为Java安装路径<br>
 ![2](https://github.com/ccyymm/vr-apk/blob/master/2.png)
 
 3-在path后加%JAVA_HOME%\bin<br>
 ![3](https://github.com/ccyymm/vr-apk/blob/master/3.png)
 
-4-验证是否成功安装Java
+4-验证是否成功安装Java<br>
 命令输入：java
-输出成功如图：
+输出成功如图：<br>
 ![4](https://github.com/ccyymm/vr-apk/blob/master/4.png)
 
-5-安装sdk（Andriod开发包）
-软件：android-sdk_r24.4.1-windows
+5-安装sdk（Andriod开发包）<br>
+软件：android-sdk_r24.4.1-windows<br>
 ![5](https://github.com/ccyymm/vr-apk/blob/master/5.png)
 
-6-打开unity，新建一个项目，打开Edit-Preferences选项
+6-打开unity，新建一个项目，打开Edit-Preferences选项<br>
 ![6](https://github.com/ccyymm/vr-apk/blob/master/6.png)
 
 * 完成后，新建场景，保存场景，添加到build里面去切换平台为安卓Android平台<br>
