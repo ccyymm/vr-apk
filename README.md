@@ -23,13 +23,13 @@
 6-打开unity，新建一个项目，打开Edit-Preferences选项
 ![6](https://github.com/ccyymm/vr-apk/blob/master/6.png)
 
-* 完成后，新建场景，保存场景，添加到build里面去切换平台为安卓Android平台
-File-build setting 
+* 完成后，新建场景，保存场景，添加到build里面去切换平台为安卓Android平台<br>
+File-build setting <br>
 ![7](https://github.com/ccyymm/vr-apk/blob/master/7.png)
 ![8](https://github.com/ccyymm/vr-apk/blob/master/8.png)
 
-* Player settings修改Other Settings 
-BundleIdentifiercom.Company.ProductName自定义name，例如：com.cym.sj，点击Build，打包
+* Player settings修改Other Settings <br>
+BundleIdentifiercom.Company.ProductName自定义name，例如：com.cym.sj，点击Build，打包<br>
 ![10](https://github.com/ccyymm/vr-apk/blob/master/9.png)
 
 7-打包完成后，在手机设备中安装即可开启游戏
