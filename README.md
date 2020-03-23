@@ -8,7 +8,7 @@
 2-新建变量：变量值为Java安装路径
 ![2](https://github.com/ccyymm/vr-apk/blob/master/2.png)
 
-3-在path后加%JAVA_HOME%\bin
+3-在path后加%JAVA_HOME%\bin<br>
 ![3](https://github.com/ccyymm/vr-apk/blob/master/3.png)
 
 4-验证是否成功安装Java
